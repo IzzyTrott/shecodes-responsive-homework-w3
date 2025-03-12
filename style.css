@@ -106,6 +106,10 @@ p {
     text-align: center;
 }
 
+img {
+  margin-top: 20px;
+}
+
 .mobile-view-link {
   display:flex;
   justify-content: center;
